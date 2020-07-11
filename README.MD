@@ -1,4 +1,4 @@
-#Ruby Tutorial Variables Lab
+<h1>Ruby Tutorial Variables Lab</h1>
 
 In this lab, you will define 3 different variables inside of the file `variables.rb`.
 
